@@ -8,7 +8,8 @@
 int main(void)
 {
 	/* print_alphabet();
-	print_alphabet_x10(); */
-	jack_bauer();
+	print_alphabet_x10(); 
+	jack_bauer();*/
+	times_table();
 	return (0);
 }

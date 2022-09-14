@@ -58,3 +58,8 @@ int print_last_digit(int n);
  */
 void jack_bauer(void);
 
+/**
+ * times_table - print multiplication table
+ */
+void times_table(void);
+
