@@ -97,7 +97,7 @@ numbers.
 - navigate to the repository
 `cd alx-low_level_programming`
 - navigate to the folder
-`cd 0x00-hello_world`
+`cd 0x01-variables_if_else_while`
 
 ## Authors
 👤 **Selma Belhadj**
