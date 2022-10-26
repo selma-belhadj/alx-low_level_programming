@@ -53,6 +53,7 @@ dkms.conf
 
 *.o
 
+a
 b
 c
 d
