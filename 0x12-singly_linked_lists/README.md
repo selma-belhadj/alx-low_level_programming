@@ -28,7 +28,7 @@ This repository holds some projects I worked on for ALX School. The goal is to l
 - navigate to the repository
 `cd alx-low_level_programming`
 - navigate to the folder
-`cd 00x12-singly_linked_lists`
+`cd 0x12-singly_linked_lists`
 
 ## Authors
 👤 **Selma Belhadj**
